@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		9DFC91BE1E9032F600813673 /* TitleCase */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TitleCase; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DFC91BE1E9032F600813673 /* title */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = title; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFC91C11E9032F700813673 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		9DFC91BF1E9032F600813673 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9DFC91BE1E9032F600813673 /* TitleCase */,
+				9DFC91BE1E9032F600813673 /* title */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9DFC91BD1E9032F600813673 /* TitleCase */ = {
+		9DFC91BD1E9032F600813673 /* title */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DFC91C51E9032F700813673 /* Build configuration list for PBXNativeTarget "TitleCase" */;
+			buildConfigurationList = 9DFC91C51E9032F700813673 /* Build configuration list for PBXNativeTarget "title" */;
 			buildPhases = (
 				9DFC91BA1E9032F600813673 /* Sources */,
 				9DFC91BB1E9032F600813673 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = TitleCase;
+			name = title;
 			productName = TitleCase;
-			productReference = 9DFC91BE1E9032F600813673 /* TitleCase */;
+			productReference = 9DFC91BE1E9032F600813673 /* title */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9DFC91B91E9032F600813673 /* Build configuration list for PBXProject "TitleCase" */;
+			buildConfigurationList = 9DFC91B91E9032F600813673 /* Build configuration list for PBXProject "title" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9DFC91BD1E9032F600813673 /* TitleCase */,
+				9DFC91BD1E9032F600813673 /* title */,
 			);
 		};
 /* End PBXProject section */
@@ -239,7 +239,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9DFC91B91E9032F600813673 /* Build configuration list for PBXProject "TitleCase" */ = {
+		9DFC91B91E9032F600813673 /* Build configuration list for PBXProject "title" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9DFC91C31E9032F700813673 /* Debug */,
@@ -248,7 +248,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DFC91C51E9032F700813673 /* Build configuration list for PBXNativeTarget "TitleCase" */ = {
+		9DFC91C51E9032F700813673 /* Build configuration list for PBXNativeTarget "title" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9DFC91C61E9032F700813673 /* Debug */,
