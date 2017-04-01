@@ -19,6 +19,6 @@ Example:
 
 ## Demo
 
-![Demo]()
+![Demo](https://github.com/chrishannah/TitleCase/blob/master/2017-04-01%2020_32_23.gif?raw=true)
 
 
